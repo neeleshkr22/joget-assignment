@@ -30,7 +30,7 @@ This project is a basic HTML and CSS webpage layout with a header, main content 
 
 ## Live Demo
 
-If a live version is available, it can be accessed at: *(insert your live site URL here)*
+If a live version is available, it can be accessed at: *https://joget.netlify.app/*
 
 ## License
 
